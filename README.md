@@ -1,10 +1,10 @@
 <!---- Banner Header ---->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=250&section=header&text=Mthxxx&desc=Desenvolvedor+Web&fontSize=49&animation=fadeIn" alt="Banner Mthxxx" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=250&section=header&text=Mthxxx&desc=Desenvolvedor&fontSize=49&animation=fadeIn" alt="Banner Mthxxx" width="100%" />
 </div>
 
 <h1 align="center">Olá, eu sou Mthxxx 👋</h1>
-<h3 align="center">Desenvolvedor web - São Paulo, SP</h3>
+<h3 align="center">Desenvolvedor - São Paulo, SP</h3>
 
 <div align="center">
   
